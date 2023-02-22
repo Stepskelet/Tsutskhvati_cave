@@ -5,6 +5,11 @@ class Board
 	Board() {}
 };
 
+class Game
+{
+	
+};
+
 class Reversy
 {
 private:
